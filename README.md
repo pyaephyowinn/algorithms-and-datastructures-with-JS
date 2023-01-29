@@ -1,0 +1,1 @@
+This repository is all bout the notes what I have been learning.
